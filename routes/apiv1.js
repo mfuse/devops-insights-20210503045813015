@@ -101,4 +101,3 @@ exports.getWeather3 = function(req, res) {
 router.get('/getWeather3', exports.getWeather3);
 
 exports.router = router;
-/* */
